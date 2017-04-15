@@ -1,0 +1,2 @@
+# CatchGravatarProfile
+"A Gravatar is a Globally Recognized Avatar. You upload it and create your profile just once, and then when you participate in any Gravatar-enabled site, your Gravatar image will automatically follow you there." So if you have a Gravatar enabled system like this, when you send a registered e-mail address (registered in gravatar.com)it converts (with md5) to hashed one and gets your profile.
