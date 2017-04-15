@@ -1,0 +1,12 @@
+PODS:
+  - CryptoKit (0.3.6)
+
+DEPENDENCIES:
+  - CryptoKit
+
+SPEC CHECKSUMS:
+  CryptoKit: 5fd4db21840255ed89ad8a88f5d280ba29c0ccbd
+
+PODFILE CHECKSUM: dfdd9f98edec45804cdf22d1f87d35fe8ddc4b3e
+
+COCOAPODS: 1.1.1
